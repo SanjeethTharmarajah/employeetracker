@@ -81,3 +81,6 @@ To test code run: node server.js
 ![image](https://github.com/SanjeethTharmarajah/employeetracker/assets/130941252/38b9bcb5-30dd-4cd3-ba53-d0d35a140bea)
 
 
+To view code in action view following video
+
+https://drive.google.com/file/d/1kXfGLHDnHSX8iYixq-tFFu2pvywr8y8S/view
