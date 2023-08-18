@@ -78,3 +78,6 @@ npm i
 
 To test code run: node server.js
 
+![image](https://github.com/SanjeethTharmarajah/employeetracker/assets/130941252/38b9bcb5-30dd-4cd3-ba53-d0d35a140bea)
+
+
